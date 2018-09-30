@@ -10,9 +10,9 @@ import { NotFoundComponent } from './miscellaneous/not-found/not-found.component
 const routes: Routes = [{
   path: '',
   component: PagesComponent,
-  children: [{ 
+  children: [{
     path: 'fetch-data',
-    component: FetchDataComponent 
+    component: FetchDataComponent,
   }, {
     path: 'dashboard',
     component: ECommerceComponent,

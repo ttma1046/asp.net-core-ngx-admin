@@ -8,7 +8,7 @@ describe('FetchDataComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ FetchDataComponent ]
+      declarations: [ FetchDataComponent ],
     })
     .compileComponents();
   }));

@@ -2,9 +2,9 @@ import { Component, Inject } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
 @Component({
-  selector: 'app-fetch-data',
+  selector: 'ngx-fetch-data',
   templateUrl: './fetch-data.component.html',
-  styleUrls: ['./fetch-data.component.scss']
+  styleUrls: ['./fetch-data.component.scss'],
 })
 export class FetchDataComponent {
   public forecasts: WeatherForecast[];
