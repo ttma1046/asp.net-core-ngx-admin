@@ -11,6 +11,6 @@
 5. cd to the project folder, run `dotnet run`.
 6. http://localhost:5000/
 
-## Had reverted back the `fetch-data.component` inside of `pages` folder.
+## Had reverted back the `fetch-data.component` inside of `ClientApp/src/app/pages` folder.
 https://localhost:5000/#/pages/fetch-data
 
