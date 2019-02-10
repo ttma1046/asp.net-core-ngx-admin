@@ -12,5 +12,5 @@
 6. http://localhost:5000/
 
 ## Had reverted back the `fetch-data.component` inside of `pages` folder.
-https://localhost:5001/#/pages/fetch-data
+https://localhost:5000/#/pages/fetch-data
 
